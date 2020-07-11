@@ -123,3 +123,9 @@ test_predicts = model.predict(x_test)
 result = F1_scores(test_labels, test_predicts)
 print(result)
 ```
+
+## 4.Results
+最后的F1值结果显示：
+![results](./results.png)
+
+F1值能够达到：77.6%
