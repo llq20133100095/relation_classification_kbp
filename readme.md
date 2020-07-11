@@ -1,5 +1,7 @@
 # Relation Classification KBP
 
+[toc]
+
 ## 1.背景
 用roberta模型，来进行关系分类，主要用到的数据集为TAC40关系分类数据集。
 
